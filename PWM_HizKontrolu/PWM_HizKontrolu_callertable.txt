@@ -1,0 +1,6 @@
+main
+	__CC2DW
+		____DoICP
+	PWM1_Set_Duty
+		Mul_16X16_U
+	PWM1_Start
